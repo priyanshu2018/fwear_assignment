@@ -284,52 +284,8 @@ class Screen1 extends StatelessWidget {
           BottomNavigationBarItem(
               icon: Icon(Icons.check_circle_outline, size: 20),
               title: Text("k")),
-          BottomNavigationBarItem(
-              icon: CircleAvatar(
-                backgroundImage: AssetImage("asset/images/profile.jpg"),
-                radius: 12,
-              ),
-              title: Text("k")),
         ],
       ),
     );
   }
 }
-//bottomNavigationBar: BottomNavigationBar(currentIndex: currentPageIndex,
-//selectedItemColor: Color(0XFF489bfd),
-//unselectedItemColor: Color(0XFF6d7586),
-//showSelectedLabels: false,
-//showUnselectedLabels: false,
-//type: BottomNavigationBarType.fixed,
-//items: <BottomNavigationBarItem>[
-//BottomNavigationBarItem(
-//icon: Icon(Icons.home,size: 25,),
-//title: Text("k")
-//),
-//BottomNavigationBarItem(
-//icon: Icon(Icons.work,size: 20),
-//title: Text("k")
-//),
-//BottomNavigationBarItem(
-//icon: Icon(Icons.add,size: 25),
-//title: Text("k")
-//),
-//BottomNavigationBarItem(
-//icon: Icon(Icons.chat_bubble_outline,size: 20),
-//title: Text("k")
-//),
-//BottomNavigationBarItem(
-//icon: CircleAvatar(backgroundImage: AssetImage("asset/images/profile.jpg"),
-//radius: 12,
-//),
-//title: Text("k")
-//
-//),
-//],
-//onTap: (int index)  {setState(() {
-//currentPageIndex=index;
-//}
-//
-//);
-//_pageController.jumpToPage(index);},
-//),
