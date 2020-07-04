@@ -1,5 +1,7 @@
 # fwear_assignment
 
+![WhatsApp-Video-2020-07-05-at-2 03 32-AM](https://user-images.githubusercontent.com/47901875/86520618-2f6e8280-be64-11ea-96a1-451f753437c6.gif)
+
 A new Flutter application.
 
 ## Getting Started
